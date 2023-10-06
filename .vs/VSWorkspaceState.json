@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\materials",
+    "\\src",
+    "\\src\\img"
   ],
-  "SelectedNode": "\\C:\\Users\\Kirill\\Source\\Repos\\DO1-Linux-school21",
+  "SelectedNode": "\\src\\report.md",
   "PreviewInSolutionExplorer": false
 }
